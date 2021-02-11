@@ -5,7 +5,7 @@ pi = np.pi
 
 def main():
 
-    # parametri di progetto
+    # definizione parametri di progetto
     # -------------------------------------------------------------------------------------------------------------------
 
     p00 = 101325 # [Pa]
